@@ -1,0 +1,6 @@
+{
+  "name": "Buscador de Votantes",
+  "description": "Buscador de votantes y gestión del padrón electoral con importación .xls/.csv, edición de registros, personalización de flyer y reportes PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
